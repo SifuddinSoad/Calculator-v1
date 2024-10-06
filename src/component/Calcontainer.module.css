@@ -1,0 +1,27 @@
+.Calcontainer {
+  background-color: antiquewhite;
+  max-width: 320px;
+  width: 40%;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: auto;
+  position: relative;
+  top: 15vh;
+}
+.Input {
+  width: 80%;
+  padding: 10px;
+  font-size: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 7% 10% 4%;
+}
+.btncontainer {
+  width: 84%;
+  margin: 15px 25px;
+  height: 53vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-around;
+}
