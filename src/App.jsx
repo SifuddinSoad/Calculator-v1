@@ -1,5 +1,5 @@
-import Container from "./component/container";
-import Calcontainer from "./component/Calcontainer";
+import Container from "./component/Container.jsx";
+import Calcontainer from "./component/Calcontainer.jsx";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
